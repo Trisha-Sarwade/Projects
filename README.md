@@ -1,5 +1,41 @@
 # Projects
 
+
+
+
+
+# Projects Overview
+
+Welcome to the repository showcasing some of my key projects. This collection reflects my work across various domains including finance, machine learning, supply chain management, and blockchain technology. Each project demonstrates my skills in implementing advanced techniques to solve real-world problems and develop innovative solutions.
+
+## Project Highlights
+
+1. **[Portfolio Optimization | Optimization Methods in Finance (Course Project)](#portfolio-optimization-optimization-methods-in-finance-course-project)**
+   - Optimized investment portfolios using linear and quadratic programming techniques.
+   - Applied Markowitz and Sharpe Ratio models for efficient portfolio construction and risk management.
+   - Performed dynamic portfolio rebalancing and risk estimation using Monte Carlo simulations.
+
+2. **[Federated Learning for Late Payment Risk Prediction | M-Tech Term Project](#federated-learning-for-late-payment-risk-prediction-m-tech-term-project)**
+   - Implemented a federated learning model to predict late payment risks in supply chain financing.
+   - Integrated features such as Late Delivery Risk and Payment Amount to enhance risk assessment while ensuring data privacy.
+
+3. **[Web-based Prediction of Supply Base](#web-based-prediction-of-supply-base)**
+   - Developed a UI/UX website to predict the supply base using data extracted from ProwessIQ.
+   - Achieved high accuracy with XGBoost and Random Forest models, and analyzed the impact of supply chain complexity on financial metrics.
+
+4. **[Restaurant Review Analysis on Yelp Data](#restaurant-review-analysis-on-yelp-data)**
+   - Analyzed Yelp reviews to enhance review rating systems and understand customer sentiments.
+   - Employed sentiment analysis and topic modeling techniques using advanced machine learning models.
+
+5. **[Blockchain & IoT Integration for Cold Chain Monitoring](#blockchain--iot-integration-for-cold-chain-monitoring)**
+   - Created a blockchain-integrated IoT system for monitoring cold chain temperatures in mango containers.
+   - Implemented secure data logging with Hyperledger Fabric and developed a web application for real-time data visualization.
+
+Each project in this repository represents a significant effort to apply cutting-edge technologies and methodologies to complex problems. I invite you to explore these projects to gain insights into the solutions and techniques used.
+
+
+
+
 ## [Portfolio Optimization | Optimization Methods in Finance (Course Project)](https://github.com/Trisha-Sarwade/Portfolio-Optimization)
 
 ### Overview
