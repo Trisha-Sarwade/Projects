@@ -5,6 +5,8 @@
 ### Overview
 This project focuses on optimizing investment portfolios using linear and quadratic programming techniques applied to Nifty datasets. The key optimization models employed include the **Markowitz Model** and **Sharpe Ratio Model**. Additionally, portfolio rebalancing was performed using **integer and stochastic programming**, and **Monte Carlo simulations** were used to estimate **Value at Risk (VaR)** and **Conditional Value at Risk (CVaR)**.
 
+### Link: https://github.com/Trisha-Sarwade/Portfolio-Optimization
+
 ### Project Details
 - **Course**: Optimization Methods in Finance
 - **Institution**: IIT Kharagpur
@@ -35,12 +37,13 @@ This project focuses on optimizing investment portfolios using linear and quadra
 - Rebalanced portfolios dynamically to maintain optimal allocation.
 - Estimated risk metrics for various portfolios and demonstrated risk management techniques.
 
-### Link: https://github.com/Trisha-Sarwade/Portfolio-Optimization
 
 ## Federated Learning for Late Payment Risk Prediction | M-Tech Term Project
 
 ### Overview
 This project aims to predict late payment risks in supply chain financing using **federated learning** techniques. The model leverages features such as **Late Delivery Risk**, **Payment Amount**, and others to improve risk assessment. The federated learning approach enables distributed model training across multiple clients without sharing sensitive data, addressing privacy concerns in supply chain operations.
+
+### Link: https://github.com/Trisha-Sarwade/Federated-Learning
 
 ### Project Details
 - **Course**: M-Tech Term Project
@@ -71,6 +74,4 @@ This project aims to predict late payment risks in supply chain financing using 
 - Successfully built a federated learning model that predicts late payment risk with high accuracy.
 - Demonstrated improved risk assessment in supply chain financing scenarios by integrating advanced features.
 - Reduced data sharing risks while achieving comparable results to traditional centralized machine learning models.
-
-### Link: https://github.com/Trisha-Sarwade/Federated-Learning
 
