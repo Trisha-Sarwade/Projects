@@ -35,4 +35,4 @@ This project focuses on optimizing investment portfolios using linear and quadra
 - Rebalanced portfolios dynamically to maintain optimal allocation.
 - Estimated risk metrics for various portfolios and demonstrated risk management techniques.
 
-## Link: 
+## Link: https://github.com/Trisha-Sarwade/Portfolio-Optimization
