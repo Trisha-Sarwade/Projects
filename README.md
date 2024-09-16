@@ -1,6 +1,6 @@
 # Projects
 
-## Portfolio Optimization | Optimization Methods in Finance (Course Project)
+## [Portfolio Optimization | Optimization Methods in Finance (Course Project)](https://github.com/Trisha-Sarwade/Portfolio-Optimization)
 
 ### Overview
 This project focuses on optimizing investment portfolios using linear and quadratic programming techniques applied to Nifty datasets. The key optimization models employed include the **Markowitz Model** and **Sharpe Ratio Model**. Additionally, portfolio rebalancing was performed using **integer and stochastic programming**, and **Monte Carlo simulations** were used to estimate **Value at Risk (VaR)** and **Conditional Value at Risk (CVaR)**.
