@@ -5,8 +5,6 @@
 ### Overview
 This project focuses on optimizing investment portfolios using linear and quadratic programming techniques applied to Nifty datasets. The key optimization models employed include the **Markowitz Model** and **Sharpe Ratio Model**. Additionally, portfolio rebalancing was performed using **integer and stochastic programming**, and **Monte Carlo simulations** were used to estimate **Value at Risk (VaR)** and **Conditional Value at Risk (CVaR)**.
 
-### Link: https://github.com/Trisha-Sarwade/Portfolio-Optimization
-
 ### Project Details
 - **Course**: Optimization Methods in Finance
 - **Institution**: IIT Kharagpur
@@ -38,12 +36,10 @@ This project focuses on optimizing investment portfolios using linear and quadra
 - Estimated risk metrics for various portfolios and demonstrated risk management techniques.
 
 
-## Federated Learning for Late Payment Risk Prediction | M-Tech Term Project
+## [Federated Learning for Late Payment Risk Prediction | M-Tech Term Project](https://github.com/Trisha-Sarwade/Federated-Learning)
 
 ### Overview
 This project aims to predict late payment risks in supply chain financing using **federated learning** techniques. The model leverages features such as **Late Delivery Risk**, **Payment Amount**, and others to improve risk assessment. The federated learning approach enables distributed model training across multiple clients without sharing sensitive data, addressing privacy concerns in supply chain operations.
-
-### Link: https://github.com/Trisha-Sarwade/Federated-Learning
 
 ### Project Details
 - **Course**: M-Tech Term Project
@@ -75,12 +71,10 @@ This project aims to predict late payment risks in supply chain financing using 
 - Demonstrated improved risk assessment in supply chain financing scenarios by integrating advanced features.
 - Reduced data sharing risks while achieving comparable results to traditional centralized machine learning models.
 
-## Web-based Prediction of Supply Base | IIT Kharagpur
+## [Web-based Prediction of Supply Base | IIT Kharagpur](https://github.com/Trisha-Sarwade/Supply-Base-Prediction)
 
 ### Overview
 This project focuses on predicting the supply base for companies using advanced machine learning techniques. The project involved data extraction from **ProwessIQ**, correlation computation, anomaly detection, and the development of a **UI/UX website** to predict the supply base with high accuracy. The project also analyzed the impact of **supply chain complexity** on financial metrics such as **ROA** and **Tobin's Q**.
-
-### Link: https://github.com/Trisha-Sarwade/Supply-Base-Prediction
 
 ### Project Details
 - **Supervisor**: Prof. Sarada Prasad Sarmah
@@ -112,12 +106,10 @@ This project focuses on predicting the supply base for companies using advanced 
 - Successfully implemented **supply chain complexity calculations** and demonstrated its correlation with key financial metrics.
 - Developed a fully functional **UI/UX website** for real-time supply base predictions.
 
-## Restaurant Review Analysis on Yelp Data | IIM Ahmedabad
+## [Restaurant Review Analysis on Yelp Data | IIM Ahmedabad](https://github.com/Trisha-Sarwade/Yelp_Data_Analysis)
 
 ### Overview
 This project focuses on analyzing **Yelp restaurant reviews** from various cities in the USA to provide a more robust way to rate reviews and identify customer sentiments. **Sentiment analysis**, **topic modeling**, and machine learning techniques were employed to understand customer expectations and enhance review rating systems.
-
-### Link: https://github.com/Trisha-Sarwade/Yelp_Data_Analysis
 
 ### Project Details
 - **Supervisor**: Prof. Adrija Majumdar
@@ -148,9 +140,7 @@ This project focuses on analyzing **Yelp restaurant reviews** from various citie
 - Improved insights into customer sentiments, helping to identify areas of improvement for restaurants.
 
 
-## Blockchain & IoT Integration for Cold Chain Monitoring | IIT Kharagpur
-
-### Link: https://github.com/Trisha-Sarwade/Blockchain-Dapp
+## [Blockchain & IoT Integration for Cold Chain Monitoring | IIT Kharagpur](https://github.com/Trisha-Sarwade/Blockchain-Dapp)
 
 ### Overview
 This project integrates **blockchain technology** with **IoT** for real-time monitoring of cold chain temperature control, specifically in mango containers. By utilizing **Raspberry Pi** for data collection and **Hyperledger Fabric** as the blockchain framework, the system ensures secure, tamper-proof data logging for cold chain management.
