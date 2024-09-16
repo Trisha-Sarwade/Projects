@@ -1,21 +1,17 @@
 # Projects
 
-
-
-
-
-# Projects Overview
+## Projects Overview
 
 Welcome to the repository showcasing some of my key projects. This collection reflects my work across various domains including finance, machine learning, supply chain management, and blockchain technology. Each project demonstrates my skills in implementing advanced techniques to solve real-world problems and develop innovative solutions.
 
 ## Project Highlights
 
-1. **[Portfolio Optimization | Optimization Methods in Finance (Course Project)](#portfolio-optimization-optimization-methods-in-finance-course-project)**
+1. **[Portfolio Optimization | Optimization Methods in Finance (Course Project)](#portfolio-optimization--optimization-methods-in-finance-course-project)**
    - Optimized investment portfolios using linear and quadratic programming techniques.
    - Applied Markowitz and Sharpe Ratio models for efficient portfolio construction and risk management.
    - Performed dynamic portfolio rebalancing and risk estimation using Monte Carlo simulations.
 
-2. **[Federated Learning for Late Payment Risk Prediction | M-Tech Term Project](#federated-learning-for-late-payment-risk-prediction-m-tech-term-project)**
+2. **[Federated Learning for Late Payment Risk Prediction | M-Tech Term Project](#federated-learning-for-late-payment-risk-prediction--m-tech-term-project)**
    - Implemented a federated learning model to predict late payment risks in supply chain financing.
    - Integrated features such as Late Delivery Risk and Payment Amount to enhance risk assessment while ensuring data privacy.
 
@@ -33,8 +29,7 @@ Welcome to the repository showcasing some of my key projects. This collection re
 
 Each project in this repository represents a significant effort to apply cutting-edge technologies and methodologies to complex problems. I invite you to explore these projects to gain insights into the solutions and techniques used.
 
-
-
+---
 
 ## [Portfolio Optimization | Optimization Methods in Finance (Course Project)](https://github.com/Trisha-Sarwade/Portfolio-Optimization)
 
@@ -70,7 +65,6 @@ This project focuses on optimizing investment portfolios using linear and quadra
 - Constructed efficient portfolios with optimal risk-return trade-offs.
 - Rebalanced portfolios dynamically to maintain optimal allocation.
 - Estimated risk metrics for various portfolios and demonstrated risk management techniques.
-
 
 ## [Federated Learning for Late Payment Risk Prediction | M-Tech Term Project](https://github.com/Trisha-Sarwade/Federated-Learning)
 
@@ -142,10 +136,10 @@ This project focuses on predicting the supply base for companies using advanced 
 - Successfully implemented **supply chain complexity calculations** and demonstrated its correlation with key financial metrics.
 - Developed a fully functional **UI/UX website** for real-time supply base predictions.
 
-## [Restaurant Review Analysis on Yelp Data | IIM Ahmedabad](https://github.com/Trisha-Sarwade/Yelp_Data_Analysis)
+## [Restaurant Review Analysis on Yelp Data | IIM Ahmedabad](https://github.com/Trisha-Sarwade/Restaurant-Review-Analysis)
 
 ### Overview
-This project focuses on analyzing **Yelp restaurant reviews** from various cities in the USA to provide a more robust way to rate reviews and identify customer sentiments. **Sentiment analysis**, **topic modeling**, and machine learning techniques were employed to understand customer expectations and enhance review rating systems.
+This project focuses on analyzing restaurant reviews from Yelp to provide a robust review rating system and identify customer sentiments. The analysis involved **sentiment analysis**, **topic modeling** using **NMF** and **LDA**, and the development of machine learning models using **TF-IDF vectors** and **deep learning techniques** like **LSTM, GRU, CNN, DNN**, and **BERT**.
 
 ### Project Details
 - **Supervisor**: Prof. Adrija Majumdar
@@ -154,32 +148,32 @@ This project focuses on analyzing **Yelp restaurant reviews** from various citie
 
 ### Key Features
 - **Sentiment Analysis**:
-  - Performed sentiment analysis on Yelp text reviews to classify customer opinions about restaurants.
-  - Applied **TF-IDF vectors** to represent text data as features for model training.
+  - Performed sentiment analysis on restaurant reviews to classify sentiments as positive, negative, or neutral.
+  - Utilized **TextBlob** and **VADER** for basic sentiment analysis and **BERT** for more advanced sentiment understanding.
 
 - **Topic Modeling**:
-  - Employed **Non-negative Matrix Factorization (NMF)** and **Latent Dirichlet Allocation (LDA)** for topic modeling.
-  - Identified key customer expectations from restaurant reviews by analyzing underlying topics across different cities.
+  - Applied **Non-Negative Matrix Factorization (NMF)** and **Latent Dirichlet Allocation (LDA)** for identifying topics within reviews.
+  - Analyzed customer expectations and preferences based on identified topics.
 
 - **Machine Learning Models**:
-  - Built multiple machine learning models using **TF-IDF vectors** and deep learning models for classification and sentiment prediction.
-  - Developed advanced models including **LSTM**, **GRU**, **CNN**, **DNN**, and **BERT** to improve prediction accuracy.
+  - Developed models using **TF-IDF vectors** and applied deep learning techniques such as **LSTM**, **GRU**, **CNN**, and **DNN** to improve review rating systems.
+  - Used **BERT** for advanced text representation and sentiment classification.
 
 ### Tools and Technologies
 - **Programming Languages**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, Keras, TensorFlow, Gensim, NLTK, SpaCy
-- **Machine Learning Models**: LSTM, GRU, CNN, DNN, BERT, TF-IDF, NMF, LDA
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, NLTK, SpaCy, Gensim, TextBlob
+- **Machine Learning Models**: LSTM, GRU, CNN, DNN, BERT
+- **Text Processing**: TF-IDF, NMF, LDA
 
 ### Results
-- Successfully implemented sentiment analysis and topic modeling to understand customer expectations in the restaurant industry.
-- Built and optimized machine learning models that provided accurate sentiment predictions and robust review ratings.
-- Improved insights into customer sentiments, helping to identify areas of improvement for restaurants.
+- Enhanced the review rating system with improved accuracy and robustness.
+- Successfully identified and analyzed customer sentiments and expectations.
+- Developed advanced machine learning models that outperformed traditional sentiment analysis methods.
 
-
-## [Blockchain & IoT Integration for Cold Chain Monitoring | IIT Kharagpur](https://github.com/Trisha-Sarwade/Blockchain-Dapp)
+## [Blockchain & IoT Integration for Cold Chain Monitoring](https://github.com/Trisha-Sarwade/Blockchain-IoT-Integration)
 
 ### Overview
-This project integrates **blockchain technology** with **IoT** for real-time monitoring of cold chain temperature control, specifically in mango containers. By utilizing **Raspberry Pi** for data collection and **Hyperledger Fabric** as the blockchain framework, the system ensures secure, tamper-proof data logging for cold chain management.
+This project focuses on integrating blockchain technology with IoT systems to monitor and control cold chain temperatures for mango containers. The solution involved real-time temperature monitoring using **Raspberry Pi** and secure data logging with **Hyperledger Fabric**. A **web application** was developed to present the temperature data through interactive graphs and detailed tables.
 
 ### Project Details
 - **Course**: Information Systems
@@ -187,26 +181,28 @@ This project integrates **blockchain technology** with **IoT** for real-time mon
 - **Duration**: January 2023 - March 2023
 
 ### Key Features
-- **Blockchain-Integrated IoT System**:
-  - Developed an IoT-based system for **real-time monitoring** of temperature in cold chain containers.
-  - Implemented blockchain for secure, decentralized logging of temperature data using **Hyperledger Fabric**.
+- **Blockchain Integration**:
+  - Implemented **Hyperledger Fabric** for secure and tamper-proof data logging.
+  - Used **Raspberry Pi** to relay temperature data in real-time via POST requests.
 
-- **Data Collection and Transmission**:
-  - Utilized **Raspberry Pi** to capture real-time temperature data in mango containers.
-  - Sent the collected data to the blockchain network via **POST requests**, ensuring data integrity and transparency.
+- **IoT System**:
+  - Developed a real-time monitoring system for cold chain temperature control.
+  - Enabled automated alerts and notifications for temperature deviations.
 
-- **Web Application for Visualization**:
-  - Created a web application that presents the extracted temperature data through **interactive graphs** and **detailed data tables**.
-  - Enabled real-time tracking and monitoring of temperature variations throughout the cold chain process.
+- **Web Application**:
+  - Created a web application to visualize temperature data with **interactive graphs** and **detailed data tables**.
+  - Implemented a user-friendly interface for monitoring and analysis.
 
 ### Tools and Technologies
-- **Programming Languages**: Python, HTML, JavaScript
-- **Hardware**: Raspberry Pi
-- **Blockchain**: Hyperledger Fabric
-- **Web Development**: Flask for backend, Chart.js for interactive graphs
-- **IoT Protocols**: MQTT, HTTP (for POST requests)
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Libraries**: Flask, Hyperledger Fabric, Raspberry Pi libraries
+- **Web Development**: HTML, CSS, JavaScript for frontend development
+- **Blockchain**: Hyperledger Fabric for secure data logging
 
 ### Results
-- Successfully implemented a blockchain-IoT integration to ensure **secure, real-time monitoring** of cold chain temperatures.
-- Developed a user-friendly **web interface** to visualize temperature data, enabling better decision-making and cold chain management.
-- Achieved secure, tamper-proof logging of sensor data on the **Hyperledger Fabric blockchain**, ensuring traceability.
+- Successfully implemented a blockchain-integrated IoT system for cold chain monitoring.
+- Achieved real-time data monitoring and secure data logging with Hyperledger Fabric.
+- Developed a comprehensive web application for data visualization and analysis.
+
+---
+
