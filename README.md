@@ -15,11 +15,11 @@ Welcome to the repository showcasing some of my key projects. This collection re
    - Implemented a federated learning model to predict late payment risks in supply chain financing.
    - Integrated features such as Late Delivery Risk and Payment Amount to enhance risk assessment while ensuring data privacy.
 
-3. **[Web-based Prediction of Supply Base](#web-based-prediction-of-supply-base)**
+3. **[Web-based Prediction of Supply Base](#web-based-prediction-of-supply-base--IIT-Kharagpur)**
    - Developed a UI/UX website to predict the supply base using data extracted from ProwessIQ.
    - Achieved high accuracy with XGBoost and Random Forest models, and analyzed the impact of supply chain complexity on financial metrics.
 
-4. **[Restaurant Review Analysis on Yelp Data](#restaurant-review-analysis-on-yelp-data)**
+4. **[Restaurant Review Analysis on Yelp Data](#restaurant-review-analysis-on-yelp-data--IIM-Ahmedabad)**
    - Analyzed Yelp reviews to enhance review rating systems and understand customer sentiments.
    - Employed sentiment analysis and topic modeling techniques using advanced machine learning models.
 
